@@ -1,5 +1,5 @@
 # Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding [Official]
-[[`Paper`]((https://github.com/nguyenrtm/scdp-pruning)) | [`BibTex`](#citation) | [`OneDrive`](https://1drv.ms/f/s!AskMbyFms6M2i8Fysa5tcPw3cviU3w?e=svcccb)]
+[[`Paper`](http://arxiv.org/abs/2501.02432) | [`BibTex`](#citation) | [`OneDrive`](https://1drv.ms/f/s!AskMbyFms6M2i8Fysa5tcPw3cviU3w?e=svcccb)]
 
 ---
 
